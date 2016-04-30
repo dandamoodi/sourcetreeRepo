@@ -1,0 +1,24 @@
+
+1. http://linuxgazette.net/105/pitcher.html; about softlinks and hardlinks in linux.
+
+2. http://wpcertification.blogspot.in/2009/06/websphere-application-server-pacakging.html ;difference between base and express
+
+3.http://tldp.org/LDP/intro-linux/html/sect_03_01.html file system
+
+4.http://www.linuxnix.com/file-types-in-linux/
+
+5.https://www.packtpub.com/books/content/deploying-your-applications-websphere-application-server-70-part-1 deploying application
+
+6.http://www.theunixschool.com/2012/03/soft-links-hard-links-all-about-inodes.html
+
+7.http://linuxcommand.org/learning_the_shell.php     shell scripting
+
+8.http://askubuntu.com/questions/156392/what-is-the-equivalent-of-an-exe-file every file is executable
+
+9.http://www.cyberciti.biz/faq/howto-linux-add-user-to-group/
+
+
+
+
+
+
