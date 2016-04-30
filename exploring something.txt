@@ -7,7 +7,7 @@
 
 4.http://www.linuxnix.com/file-types-in-linux/
 
-5.https://www.packtpub.com/books/content/deploying-your-applications-websphere-application-server-70-part-1 deploying application
+5.https://www.packtpub.com/booookschanged/content/deploying-your-applications-websphere-application-server-70-part-1 deploying application
 
 6.http://www.theunixschool.com/2012/03/soft-links-hard-links-all-about-inodes.html
 
