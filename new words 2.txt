@@ -1,11 +1,11 @@
-stamble=lose balance or trip
+stamble=lose chandu or trip
 /
 sperm =semen
 /
 massacre=(maseke)deliberately and brutally kill
 /
 peon=(pi:en)unskilled worker
-/
+/ Added Something Here
 crumple=crushing something or wrinkled
 /
 wrinkle=(rinkle)lines or folds on face
