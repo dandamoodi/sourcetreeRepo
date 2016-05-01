@@ -8,6 +8,6 @@ peon=(pi:en)unskilled worker
 / Added Something Here
 crumple=crushing something or wrinkled
 /
-wrinkle=(rinkle)lines or folds on face
+wrinkle=(rinkle)lines or changed one on face
 /
 
